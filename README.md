@@ -1,4 +1,4 @@
-## Hello there, I'm sthaff2006 👋
+## Hello there, I'm sthaf2006 👋
 #### I'am Sthaford Mamahit, The 2nd Year College Student|Majoring in informatics Universitas Klabat, North Sulawesi - Indonesia
 
 ## About me
