@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello there, I'm sthaff2006 👋
+#### I'am Sthaford Mamahit, The 2nd Year College Student|Majoring in informatics Universitas Klabat, North Sulawesi - Indonesia
 
-<!--
-**sthaf2006/sthaf2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- I'm Interested in Information Technology (Informatics & Graphic Visual Communication Design) 
+- also enthusiast in Sport & Business 
 
-Here are some ideas to get you started:
+## My skills
+- Programming Language: JavaScript, Python
+- Working Tools: Figma, Notion, Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Contact
+- Links: https://linktr.ee/willow.whisper
+- Email: sthafordvivoy71@gmail.com
