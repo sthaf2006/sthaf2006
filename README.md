@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-#I am a **Informatics Student** at **Universitas Klabat**, Learning at the intersection of:
+# I am a **Informatics Student** at **Universitas Klabat**, Learning at the intersection of:
 
 
 * **[Computer Science/Information Technology Education]**
@@ -29,7 +29,7 @@ Quotes:
 
 ## 🎓 Teaching & Education  
 
-#**I learn anything**
+# **I learn anything**
 
 
 My main interests include:
@@ -39,7 +39,7 @@ My main interests include:
 * **[Education Technology]**
 
 
-#I am currently exploring **[Information Technology in Education]**.
+# I am currently exploring **[Information Technology in Education]**.
 
 ---
 
