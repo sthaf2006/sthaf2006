@@ -21,7 +21,7 @@ I am a **[Informatics Student]** at **[Universitas Klabat]**, Learning at the in
 
 Quotes:
 
-> *["Computer science is no more about computers than astronomy is about telescopes." Edsger Dijkstra]*
+> *"Computer science is no more about computers than astronomy is about telescopes." (Edsger Dijkstra)*
 
 ---
 
