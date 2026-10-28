@@ -27,7 +27,7 @@ Quotes:
 
 ## 🎓 Teaching & Education  
 
-I **[learn anything]**.
+**I learn anything**
 
 My main interests include:
 
