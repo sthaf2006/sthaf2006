@@ -1,18 +1,39 @@
-# Hello there, I'm sthaf2006 👋
-#### I'am Sthaford Mamahit, The 2nd Year College Student|Majoring Informatics at Universitas Klabat, North Sulawesi - Indonesia
+<h1 align="center">Hi, I'm [Sthaford Mamahit] 👋</h1>
 
-## About me
-- I'm Interested in Information Technology (Informatics & Graphic Visual Communication Design) 
-- also enthusiast in Sport & Business 
+<p align="center">
+  <b>[Informatics Students]</b>
+</p>
 
-## My skills
-- Programming Language: JavaScript, Python
-- Working Tools: Figma, Notion, Github
+* 💼 **LinkedIn:** [in/sthafordbeimmamahit](www.linkedin.com/in/sthaford-beim-mamahit-92486640b)
+* 📧 **Email:** [12410221@student.unklab.ac.id](mailto:12410221@student.unklab.ac.id)
+* 📷 **Instagram:** [@sthfrd__](https://instagram.com/sthfrd__)
 
-## My Contact
-- Links: https://linktr.ee/willow.whisper
-- Email: 12410221@student.unklab.ac.id
+---
 
-## Follow for more!!
+## 👤 About Me
 
-## btw i interest in google earth project:)
+I am a **[Informatics Student]** at **[Universitas Klabat]**, Learning at the intersection of:
+
+* **[Computer Science/Information Technology Education]**
+
+
+Quotes:
+
+> *["Computer science is no more about computers than astronomy is about telescopes." Edsger Dijkstra]*
+
+---
+
+## 🎓 Teaching & Education  
+
+I **[learn anything]**.
+
+My main interests include:
+
+* **[Information Technology]**
+* **[Education Technology]**
+
+I am currently exploring **[Information Technology in Education]**.
+
+---
+
+
