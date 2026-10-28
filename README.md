@@ -32,7 +32,7 @@ Quotes:
 #**I learn anything**
 
 
-# My main interests include:
+My main interests include:
 
 
 * **[Information Technology]**
