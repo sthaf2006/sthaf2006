@@ -4,9 +4,9 @@
   <b>[Informatics Students]</b>
 </p>
 
-* 💼 **LinkedIn:** [in/sthafordbeimmamahit](www.linkedin.com/in/sthaford-beim-mamahit-92486640b)
-* 📧 **Email:** [12410221@student.unklab.ac.id](mailto:12410221@student.unklab.ac.id)
-* 📷 **Instagram:** [@sthfrd__](https://instagram.com/sthfrd__)
+* <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/linkedin.svg" width="16" height="16"> **LinkedIn:** [in/sthafordbeimmamahit](https://www.linkedin.com/in/sthaford-beim-mamahit-92486640b)
+* <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/gmail.svg" width="16" height="16"> **Email:** [12410221@student.unklab.ac.id](mailto:12410221@student.unklab.ac.id)
+* <img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/instagram.svg" width="16" height="16"> **Instagram:** [@sthfrd__](https://instagram.com/sthfrd__)
 
 ---
 
