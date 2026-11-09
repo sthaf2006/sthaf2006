@@ -27,7 +27,7 @@ Quotes:
 ---
 
 
-## 🎓 Teaching & Education  
+## 🎓 Technology & Education  
 
 # **I learn anything**
 
