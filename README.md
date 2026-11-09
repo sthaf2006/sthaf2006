@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm [Sthaford Mamahit] 👋</h1>
+<h1 align="center">Hi, I'm Sthaford Beim Mamahit👋</h1>
 
 <p align="center">
-  <b>[Informatics Students]</b>
+  <b>Informatics Students - Technology Education Learner</b>
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ---
 
-## 👤 About Me
+## 🎹 About Me
 
-# I am a **Informatics Student** at **Universitas Klabat**, Learning at the intersection of:
+## I am a **Informatics Student** at **Universitas Klabat**, Learning at the intersection of:
 
 
 * **[Computer Science/Information Technology Education]**
